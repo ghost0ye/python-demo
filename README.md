@@ -1,4 +1,5 @@
-Learn python ~
-====
+## Demo to each module in python
 
-**python version :** 2.7.x
+### module list
+1. urllib2
+2. bs4
